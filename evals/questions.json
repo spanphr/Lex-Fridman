@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ret_001",
+    "question": "What does David Ferrucci mean by an 'alien intelligence'?",
+    "guest": "David Ferrucci",
+    "title": "IBM Watson, Jeopardy & Deep Conversations with AI",
+    "category": "conceptual",
+    "gold_chunk_ids": [
+      "0140686a927f021d"
+    ],
+    "expected_points": [
+      "An AI could develop its own internal framework independently of humans.",
+      "It could outperform humans at a task.",
+      "Its framework could still be difficult or impossible for humans to understand or explain."
+    ]
+  },
+  {
+    "id": "ret_002",
+    "question": "What is Sebastian Thrun's view on whether we are living in a simulation?",
+    "guest": "Sebastian Thrun",
+    "title": "Flying Cars, Autonomous Vehicles, and Education",
+    "category": "conceptual",
+    "gold_chunk_ids": [
+      "4367595793e84a84"
+    ],
+    "expected_points": [
+      "He says we may or may not be living in a simulation.",
+      "He considers the question largely irrelevant to how humans should act.",
+      "He describes the universe as an information-processing system without implying that it has an intention."
+    ]
+  },
+  {
+    "id": "ret_003",
+    "question": "What does Tomaso Poggio say about the possibility of time travel?",
+    "guest": "Tomaso Poggio",
+    "title": "Brains, Minds, and Machines",
+    "category": "direct_fact",
+    "gold_chunk_ids": [
+      "f850100ae07e2f0e"
+    ],
+    "expected_points": [
+      "He says that in science one should be cautious about saying something is impossible.",
+      "He nevertheless considers time travel very unlikely to be possible."
+    ]
+  },
+  {
+    "id": "ret_004",
+    "question": "Why does Richard Craib see the rise of collective power among ordinary people as both exciting and potentially dangerous?",
+    "guest": "Richard Craib",
+    "title": "WallStreetBets, Numerai, and the Future of Stock Trading",
+    "category": "explanation",
+    "gold_chunk_ids": [
+      "a9e2bb323e21bd3e"
+    ],
+    "expected_points": [
+      "Collective action can give ordinary people power against centralized or powerful institutions.",
+      "That empowerment can be exciting.",
+      "Large groups can also be manipulated by charismatic or influential leaders."
+    ]
+  },
+  {
+    "id": "ret_005",
+    "question": "Why was Eugenia Kuyda skeptical of the idea that chatbots would become a universal interface for applications?",
+    "guest": "Eugenia Kuyda",
+    "title": "Friendship with an AI Companion",
+    "category": "explanation",
+    "gold_chunk_ids": [
+      "c64bc6f14412cf8b"
+    ],
+    "expected_points": [
+      "Her team had already experimented with many chatbot use cases.",
+      "Those chatbot products had attracted very few users.",
+      "This made her doubt that people actually wanted chatbots as a universal interface."
+    ]
+  },
+  {
+    "id": "ret_006",
+    "question": "Why does Ray Dalio say debt cycles become increasingly difficult for later generations to deal with?",
+    "guest": "Ray Dalio",
+    "title": "Money, Power, and the Collapse of Empires",
+    "category": "explanation",
+    "gold_chunk_ids": [
+      "585ddf5c05000afd"
+    ],
+    "expected_points": [
+      "Previous generations leave behind debt and financial conditions that constrain later generations.",
+      "Simply earning more or spending less may no longer be easy enough to solve the problem.",
+      "Governments may then monetize the debt, contributing to recurring cycles."
+    ]
+  },
+  {
+    "id": "ret_007",
+    "question": "According to Daniel Negreanu, how realistic is the obvious Oreo tell in Rounders at high-level poker?",
+    "guest": "Daniel Negreanu",
+    "title": "Poker",
+    "category": "direct_fact",
+    "gold_chunk_ids": [
+      "5a719095f6a3dad1"
+    ],
+    "expected_points": [
+      "An obvious tell like the Oreo behavior would be unlikely at the highest levels.",
+      "Elite players would exhibit subtler tells.",
+      "Examples include posture and timing."
+    ]
+  }
+]
